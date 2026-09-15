@@ -37,3 +37,7 @@ weather-api-streamlit/
 │
 ├── app.py
 └── README.md
+
+## Conclusion
+
+The Weather API project successfully demonstrates how to build a simple weather application using Python and Streamlit. It connects with the Open-Meteo API to retrieve real-time weather information such as temperature, humidity, and wind speed. The project provides a simple and user-friendly interface for checking weather conditions by entering a city name.
